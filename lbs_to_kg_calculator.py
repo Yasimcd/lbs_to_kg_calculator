@@ -1,4 +1,4 @@
-# ***Question 3:***
+# This is a lbs to kg conveter app
 pouns = float(input("Please enter the mass in lb that you would like to convert to kg: "))
 kg = 2.20462 
 new_mass = pouns / kg
